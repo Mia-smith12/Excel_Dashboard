@@ -23,6 +23,7 @@ The dataset includes restaurant transaction and guest feedback data. Key fields 
 * Order type (Dine‑In, Delivery)
 * Sales amount
 * Customer rating (1–5)
+
 Data has been cleaned and structured for pivot‑table analysis.
 
 # Dahboard Use Cases 

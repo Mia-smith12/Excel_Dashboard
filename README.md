@@ -1,6 +1,9 @@
 # Restaurant Performance & Guest Experience Dashboard
 A fully interactive Excel dashboard analyzing sales, guest satisfaction, and operational performance across multiple restaurant locations.
 
+<img width="1165" height="612" alt="image" src="https://github.com/user-attachments/assets/73b023b2-8008-4f18-b5cb-3ca9d80ec79a" />
+
+
 # Project Overview
 This project is an interactive Excel dashboard designed to help restaurant managers and stakeholders monitor business performance and guest experience metrics in one place.
 It provides a clear view of sales trends, customer satisfaction, menu performance, and order behavior across locations.
